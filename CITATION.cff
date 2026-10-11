@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this methodology or skill, please cite it as below."
+title: "访谈副驾驶 · 学术质性研究版（Interview Copilot）"
+abstract: >-
+  研究者主导、AI 辅助的结构化深度访谈方法论与可执行技能包，覆盖"从研究想法到跨案例矩阵"的完整链路：
+  学术导向的问卷设计、领域预研认知基线、草稿预填与选项卡片式的轻量访谈、引文来源三分类标记、
+  以及自动累积的跨案例对比矩阵。面向论文质性访谈、专家访谈、组织诊断与咨询尽调场景。
+  协议内含效度护栏（选项引导性、中转保真度、AI 预写草稿的引文风险）与研究者责任边界约定。
+type: software
+authors:
+  - alias: "wenzeliqi"
+    family-names: "李"
+    given-names: "文泽泽"
+    name-particle: ""
+    email: "wenzeli321@gmail.com"
+repository-code: "https://github.com/wenzeliqi/interview-copilot"
+url: "https://github.com/wenzeliqi/interview-copilot"
+keywords:
+  - agent-skills
+  - claude-code
+  - qualitative-research
+  - interview-methodology
+  - cross-case-analysis
+  - academic-writing
+  - 质性研究
+  - 访谈方法
+  - 跨案例矩阵
+license: CC-BY-4.0
+version: 1.4.0
+date-released: "2026-10-11"
